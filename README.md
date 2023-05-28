@@ -1,12 +1,13 @@
 # Crowdfunding_platform
 
+
 # Prerequisites
 This is an example of how to list things you need to use the app and how to install them.
 
 - **npm** <br />
 npm install npm@latest -g
 # Installation
-- **Clone the repo** <br />
+- **Clone the repo** <br /
 git clone https://github.com/rohitgalande1032/Crowdfunding_platform.git
 
 - **Install NPM packages** <br />
